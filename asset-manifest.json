@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react_movie_app/static/css/main.20ff916f.chunk.css",
+    "main.js": "/react_movie_app/static/js/main.2ff6e18b.chunk.js",
+    "main.js.map": "/react_movie_app/static/js/main.2ff6e18b.chunk.js.map",
+    "runtime-main.js": "/react_movie_app/static/js/runtime-main.e749ff8d.js",
+    "runtime-main.js.map": "/react_movie_app/static/js/runtime-main.e749ff8d.js.map",
+    "static/js/2.7207c08f.chunk.js": "/react_movie_app/static/js/2.7207c08f.chunk.js",
+    "static/js/2.7207c08f.chunk.js.map": "/react_movie_app/static/js/2.7207c08f.chunk.js.map",
+    "index.html": "/react_movie_app/index.html",
+    "precache-manifest.f6117f9c58a2af25cfceb65f2e2ad7be.js": "/react_movie_app/precache-manifest.f6117f9c58a2af25cfceb65f2e2ad7be.js",
+    "service-worker.js": "/react_movie_app/service-worker.js",
+    "static/css/main.20ff916f.chunk.css.map": "/react_movie_app/static/css/main.20ff916f.chunk.css.map",
+    "static/js/2.7207c08f.chunk.js.LICENSE.txt": "/react_movie_app/static/js/2.7207c08f.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/react_movie_app/static/media/ProximaNova-Regular.0ba63dfc.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e749ff8d.js",
+    "static/js/2.7207c08f.chunk.js",
+    "static/css/main.20ff916f.chunk.css",
+    "static/js/main.2ff6e18b.chunk.js"
+  ]
+}
